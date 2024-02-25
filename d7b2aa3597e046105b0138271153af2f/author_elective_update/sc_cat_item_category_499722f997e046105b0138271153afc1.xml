@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Solicitação de Material">0c07e2b997e046105b0138271153af83</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-24 23:40:36</sys_created_on>
+        <sys_id>499722f997e046105b0138271153afc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Solicitação de Material</sys_name>
+        <sys_package display_value="NowPro - Aula 6" source="x_1301125_nowpro_0">d7b2aa3597e046105b0138271153af2f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowPro - Aula 6">d7b2aa3597e046105b0138271153af2f</sys_scope>
+        <sys_update_name>sc_cat_item_category_499722f997e046105b0138271153afc1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 23:40:36</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NowPro - Aula 6">d7b2aa3597e046105b0138271153af2f</application>
+        <file_path/>
+        <instance_id>505e633edbf4d4d0ad8dd7c8f49619b2</instance_id>
+        <instance_name>dev104353</instance_name>
+        <name>sc_cat_item_category_499722f997e046105b0138271153afc1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitação de Material">0c07e2b997e046105b0138271153af83</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-24 23:40:36</sys_created_on><sys_id>499722f997e046105b0138271153afc1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.Solicitação de Material</sys_name><sys_package display_value="NowPro - Aula 6" source="x_1301125_nowpro_0">d7b2aa3597e046105b0138271153af2f</sys_package><sys_policy/><sys_scope display_value="NowPro - Aula 6">d7b2aa3597e046105b0138271153af2f</sys_scope><sys_update_name>sc_cat_item_category_499722f997e046105b0138271153afc1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-24 23:40:36</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>237500896</payload_hash>
+        <record_name>Departmental Services.Solicitação de Material</record_name>
+        <reverted_from/>
+        <source>9fb2aa3597e046105b0138271153af31</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-24 23:40:36</sys_created_on>
+        <sys_id>4d9722f997e046105b0138271153afd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ddd7df72c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 23:40:36</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>4d9722f917e04610c7cf25477beec3d1</update_guid>
+        <update_guid_history>4d9722f917e04610c7cf25477beec3d1:237500896</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.Solicitação de Material">7b182ef997e046105b0138271153af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-24 23:42:59</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>09991fc5f7f54556809b7896679c0151</sys_id>
+        <sys_metadata>499722f997e046105b0138271153afc1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Solicitação de Material</sys_name>
+        <sys_package display_value="NowPro - Aula 6" source="x_1301125_nowpro_0">d7b2aa3597e046105b0138271153af2f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NowPro - Aula 6">d7b2aa3597e046105b0138271153af2f</sys_scope>
+        <sys_scope_delete display_value="">128369795f33448a8240580b2d0a9501</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_499722f997e046105b0138271153afc1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_499722f997e046105b0138271153afc1">4d9722f997e046105b0138271153afd2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 23:42:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
